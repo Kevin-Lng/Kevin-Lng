@@ -14,8 +14,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lng&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lng&layout=compact&theme=radical)
 
 ---
 
