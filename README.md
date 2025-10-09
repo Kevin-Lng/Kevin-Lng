@@ -1,8 +1,7 @@
 # 👋 Hey there, I'm Kevin!
 
 💻 Passionate about coding, design, and turning ideas into reality.  
-🚀 Currently working on: **Digital Systems Integration & Creative Tech Projects**  
-🎯 Focus: Python | Go | SQL | UI/UX | System Architecture  
+🎯 Still Learning: Python | Go | SQL | UI/UX | System Architecture  
 
 ---
 
