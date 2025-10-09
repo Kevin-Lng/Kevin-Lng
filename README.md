@@ -26,3 +26,6 @@
 ---
 
 > “Code it. Build it. Ship it. Repeat.”
+
+
+![snake gif](https://github.com/Kevin-Lng/Kevin-Lng/blob/output/github-snake-dark.svg)
